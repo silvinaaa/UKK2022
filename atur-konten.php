@@ -1,5 +1,5 @@
 <?php
-if($_GET['menu'] = 'registrasi') {
+if($_GET['menu'] = 'registrasi'); {
     include("konten/registrasi.php");
 }
 ?>
